@@ -6,7 +6,7 @@ services:
     container_name: rohan-website
     restart: unless-stopped
     ports:
-      - "801:801"
+      - "881:881"
     # Uncomment below if you're using a reverse proxy like nginx/traefik
     # and want to bind to a specific host port instead:
     # ports:
